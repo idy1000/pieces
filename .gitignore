@@ -27,4 +27,13 @@
 *.out
 *.app
 
+# vs
+*.opensdf
+*.vcxproj.user
+*.suo
+ipch/
+Debug/
+Release/
+
+# my
 stable_proj/
