@@ -28,6 +28,7 @@
 *.app
 
 # vs
+*.sdf
 *.opensdf
 *.vcxproj.user
 *.suo
